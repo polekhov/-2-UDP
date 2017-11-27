@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\Работа 2 - сервер\Работа 2 - сервер\obj\Debug\Работа 2 - сервер.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\Работа 2 - сервер\Работа 2 - сервер\bin\Debug\Работа 2 - сервер.exe.config
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\Работа 2 - сервер\Работа 2 - сервер\bin\Debug\Работа 2 - сервер.exe
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\Работа 2 - сервер\Работа 2 - сервер\bin\Debug\Работа 2 - сервер.pdb
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\Работа 2 - сервер\Работа 2 - сервер\obj\Debug\Работа 2 - сервер.exe
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\Работа 2 - сервер\Работа 2 - сервер\obj\Debug\Работа 2 - сервер.pdb

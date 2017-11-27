@@ -1,0 +1,15 @@
+c:\users\nick\documents\visual studio 2017\Projects\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.exe
+c:\users\nick\documents\visual studio 2017\Projects\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Работа 2 клиент\Работа 2 клиент\obj\Debug\Работа 2 клиент - 1.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\Работа 2 клиент\Работа 2 клиент\obj\Debug\Работа 2 клиент.exe
+c:\users\nick\documents\visual studio 2017\Projects\Работа 2 клиент\Работа 2 клиент\obj\Debug\Работа 2 клиент.pdb
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.exe.config
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.exe
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.pdb
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.exe.CodeAnalysisLog.xml
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\bin\Debug\Работа 2 клиент.exe.lastcodeanalysissucceeded
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\obj\Debug\Работа 2 клиент - 1.csprojResolveAssemblyReference.cache
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\obj\Debug\Работа 2 клиент - 1.csproj.CoreCompileInputs.cache
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\obj\Debug\Работа 2 клиент.exe
+C:\Users\polekhov\Desktop\-\уМЭНСКИЙ\Лабораторная работа 2\Работа 2 клиент\Работа 2 клиент\obj\Debug\Работа 2 клиент.pdb
